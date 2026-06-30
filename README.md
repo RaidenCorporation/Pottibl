@@ -16,8 +16,8 @@ Pottibl™ runs on its user interface named **PortableUI**. **PortableUI** is a 
 
 # How To Download
 
-To download Pottibl™, go to the Releases tab.
-Then look for the version with the "latest" tag next to the name.
+To download Pottibl™, go to the [Releases tab](https://github.com/RaidenCorporation/Pottibl/releases).
+Then look for the version with the "**latest**" tag next to the name.
 
 # How To Use
 
