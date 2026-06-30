@@ -1,2 +1,1 @@
-# Pottibl
-Pottibl™ is a portable, ZIP-to-USB app for Windows so you can easily transfer your files from a computer to a USB drive easily under 50 seconds with Pottibl™ without being an advanced user. Pottibl™ runs on the interface of it named PortableUI.
+Pottibl™ is a no-BS, easy and lightweight ZIP-to-USB app to get your files from your laptop straight to your USB drive. This takes LONG doing it manually, especially if you're not used to computers and laptops. But with Po
